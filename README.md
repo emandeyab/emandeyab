@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eman Deyab</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emandeyab&label=Profile%20views&color=0e75b6&style=flat" alt="emandeyab" /> </p>
+
 - A Dedicated and Passionate 3rd-Year Computer Science Student
 - Problem-Solver and Competitive Programmer
 - 📫 How to reach me **emandeyab2003@gmail.com**
