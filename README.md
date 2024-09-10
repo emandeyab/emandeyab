@@ -14,6 +14,6 @@
 </p>
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emandeyab&" alt="emandeyab" /></p>
-
 ![Eman Deyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emandeyab&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emandeyab&" alt="emandeyab" /></p>
