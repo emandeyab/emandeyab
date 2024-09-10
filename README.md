@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eman Deyab</h1>
-<h3 align="center">A Dedicated and Passionate 3rd-Year Computer Science Student from Egypt</h3>
 
+- A Dedicated and Passionate 3rd-Year Computer Science Student
+- Problem-Solver and Competitive Programmer
 - 📫 How to reach me **emandeyab2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
