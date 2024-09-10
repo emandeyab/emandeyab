@@ -4,8 +4,7 @@
 
 ---
 
-📫 How to Reach Me 📧: [emandeyab2003@gmail.com](mailto:emandeyab2003@gmail.com)
-
+<small>📫 How to Reach Me: [emandeyab2003@gmail.com](mailto:emandeyab2003@gmail.com)</small>
 ---
 ## 🔗 Connect with Me
 
