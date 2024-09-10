@@ -4,7 +4,10 @@
 
 ---
 
+## 📫 How to Reach Me: 📧 **Email**: [emandeyab2003@gmail.com](mailto:emandeyab2003@gmail.com)
 ## 🔗 Connect with Me
+
+---
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eman_deyab_/) 
 
@@ -14,6 +17,5 @@
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eman_deyab)
 
-📧 **Email**: [emandeyab2003@gmail.com](mailto:emandeyab2003@gmail.com)
 ---
 
