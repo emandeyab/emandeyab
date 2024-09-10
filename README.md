@@ -12,6 +12,6 @@
 <a href="https://instagram.com/eman_deyab_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eman_deyab_" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Eman Deyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emandeyab&show_icons=true&theme=radical)
