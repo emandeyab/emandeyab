@@ -2,10 +2,9 @@
 
 **A Dedicated and Passionate 3rd-Year Computer Science Student, Problem-Solver and Competitive Programmer**  
 
----
 
 <small>📫 How to Reach Me: [emandeyab2003@gmail.com](mailto:emandeyab2003@gmail.com)</small>
----
+
 ## 🔗 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eman_deyab_/) 
