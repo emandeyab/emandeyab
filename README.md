@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eman Deyab</h1>
 
-<p align="left"> <a href="https://twitter.com/eman_deyab" target="blank"><img src="https://img.shields.io/twitter/follow/eman_deyab?logo=twitter&style=for-the-badge" alt="eman_deyab" /></a> </p>
 
 - A Dedicated and Passionate 3rd-Year Computer Science Student
 - Problem-Solver and Competitive Programmer
@@ -14,9 +13,7 @@
 <a href="https://instagram.com/eman_deyab_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eman_deyab_" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emandeyab&" alt="emandeyab" /></p>
-
 ### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emandeyab&" alt="emandeyab" /></p>
 
 ![Eman Deyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emandeyab&show_icons=true&theme=radical)
